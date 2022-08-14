@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{BE4BD3F2-AF0B-4152-8319-4B02B29384DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction_Polymorphism_Interface_Encapsulation", "Abstraction_Polymorphism_Interface_Encapsulation\Abstraction_Polymorphism_Interface_Encapsulation.csproj", "{2376B472-7E6A-4B09-A25A-E8521BD62A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BE4BD3F2-AF0B-4152-8319-4B02B29384DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4BD3F2-AF0B-4152-8319-4B02B29384DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4BD3F2-AF0B-4152-8319-4B02B29384DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2376B472-7E6A-4B09-A25A-E8521BD62A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2376B472-7E6A-4B09-A25A-E8521BD62A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2376B472-7E6A-4B09-A25A-E8521BD62A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2376B472-7E6A-4B09-A25A-E8521BD62A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
